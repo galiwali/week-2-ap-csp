@@ -79,6 +79,14 @@ print(chicago_mayor[1:5])
 # print("First character:", phrase[0])  # Output: P
 # print("Last character:", phrase[-1])  # Output: !
 
+phrase3 = "Supercagifragilstic"
+#uppercase it
+#slice Sugar out of it into a different variable
+#slice cagi out of phrase3 omtp ots pwm variable
+#print out the last letter
+print(phrase.upper())
+cut = phrase3[0:5]
+print(cut)
 # # Slicing: Get a range of characters (start inclusive, end exclusive)
 # print("Characters 1 to 4:", phrase[1:4])  # Output: yth
 
