@@ -37,6 +37,15 @@ print("Is Uppercase?", phrase2.isupper())
 # # Find the length of the string
 # print("Length of phrase:", len(phrase))  # Output: 14
 
+declaration_of_indepence = "When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation"
+#find the first paragraph of this online
+#paste it in between the quotation marks
+#print out the length of it
+
+#push it to github
+# git add .
+# git commit -m "declaration"
+# git push origin
 # # ----------------------------------------
 # # 3. Indexing and Slicing
 # # ----------------------------------------
