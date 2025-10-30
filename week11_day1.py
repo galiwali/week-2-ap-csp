@@ -23,6 +23,12 @@ print(f"My name is {first_name} and my favorite color is {favorite_color}.")
 
 #  Step 3: Math Practice
 # Use arithmetic operators with your favorite number
+num1 = 3
+num2 = 3
+num3 = int(input("what is your 3rd fav")) #5
+num4 = int(input("what is your 4th fav")) #4
+print(num3 + num4) # output 54
+print(num1 + num2) # output 6
 
 
 #  Step 4: User Input Practice
